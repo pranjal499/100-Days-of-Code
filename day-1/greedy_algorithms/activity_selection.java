@@ -5,7 +5,7 @@ public class activity_selection {
     public static void main(String[] args) {
         
         // Q.1) Activity Selection:
-        // You are given n activities with their start and end and times. Select the manimum no. of activity that can be performed by a single person, assuming that a person can only work on a single activity at a time. Activities are sorted according to end time. 
+        // You are given n activities with their start and end and times. Select the minimum no. of activity that can be performed by a single person, assuming that a person can only work on a single activity at a time. Activities are sorted according to end time. 
         // start = [10, 12, 20]
         // end = [20, 25, 30]
 
